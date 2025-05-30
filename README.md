@@ -33,7 +33,7 @@ Automatic fact-checking has recently received more attention as a means of comba
 We use the **December 20, 2018 Wikipedia dump** as the external retrieval corpus. To enhance retrieval performance and ensure consistency across methods, the corpus is preprocessed into fixed-length passages.
 
 - 📦 **Corpus Size**: 21,015,325 passages
-- 📄 **Passage Format**: Each passage contains **100 tokens** (or roughly 100 words).
+- 📄 **Passage Format**: Each passage contains **100 tokens**.
 - 🧹 **Preprocessing**:
   - Wikipedia articles are tokenized and split into non-overlapping windows.
   - Each window is treated as an independent passage for retrieval.
