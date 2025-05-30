@@ -25,7 +25,7 @@ Automatic fact-checking has recently received more attention as a means of comba
 |------------------|------------------|------------------|
 | Source           | Wikipedia        | Wikipedia        |
 | # Claims (Test)  | 200              | 358              |
-| Claim Length     | 14.03 tokens     | 24.20 tokens     |
+| Claim Length     | 14.03 words     | 24.20 words     |
 | Avg # Evidence   | 1.29             | 3.94             |
 
 ## 🗂️ Project Structure
