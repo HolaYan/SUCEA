@@ -37,6 +37,7 @@ Automatic fact-checking has recently received more attention as a means of comba
 ├── fact_checking/ # Final label prediction and evidence aggregation
 ├── multi_round_retriever/ # Retrieval loop with first- and second-round logic
 └── README.md
+```
 
 ## 🧪 Getting Started
 
