@@ -1,5 +1,5 @@
 # SUCEA: Reasoning-Intensive Retrieval for Adversarial Fact-checking through Claim Decomposition and Editing
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXX-blue)](link_to_arxiv) 
+[![arXiv](https://img.shields.io/badge/arXiv-2506.04583-blue)](link_to_arxiv) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Official implementation of **"SUCEA: Reasoning-Intensive Retrieval for Adversarial Fact-checking through Claim Decomposition and Editing"**.
@@ -70,9 +70,12 @@ Coming soon: Instructions for reproducing the results in the paper using GPT-4o-
 
 ## 📚 Citation
 ```bibtex
-@article{liu2024sucea,
-  title={SUCEA: Reasoning-Intensive Retrieval for Adversarial Fact-checking through Claim Decomposition and Editing},
-  author={Liu, Hongjun and Zhao, Yilun and Cohan, Arman and Zhao, Chen},
-  journal={arXiv preprint arXiv:2407.21783},
-  year={2024}
+@misc{liu2025suceareasoningintensiveretrievaladversarial,
+      title={SUCEA: Reasoning-Intensive Retrieval for Adversarial Fact-checking through Claim Decomposition and Editing}, 
+      author={Hongjun Liu and Yilun Zhao and Arman Cohan and Chen Zhao},
+      year={2025},
+      eprint={2506.04583},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.04583}, 
 }
