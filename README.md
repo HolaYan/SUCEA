@@ -1,5 +1,5 @@
 # SUCEA: Reasoning-Intensive Retrieval for Adversarial Fact-checking through Claim Decomposition and Editing
-[![arXiv](https://img.shields.io/badge/arXiv-2506.04583-blue)]([link_to_arxiv](https://arxiv.org/abs/2506.04583)) 
+[![arXiv](https://img.shields.io/badge/arXiv-2506.04583-blue)](https://arxiv.org/abs/2506.04583)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Official implementation of **"SUCEA: Reasoning-Intensive Retrieval for Adversarial Fact-checking through Claim Decomposition and Editing"**.
